@@ -3,7 +3,7 @@ Option Strict On
 Option Explicit On
 Option Compare Text
 
-'Justine Hffa
+'Justine Hoffa
 'RCET0265
 'Fall 2020
 'Say My Name Again
